@@ -23,7 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=SayakDut&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayakDut/SayakDut/output/github-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SayakDut/SayakDut/output/github-snake.svg" style="max-width: 100%; display: block; margin: 0 auto;" />
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
