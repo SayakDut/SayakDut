@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🤖 Passionate about building intelligent systems that push the boundaries of AI  <br>- 🔬 Exploring RAG, multi-agent systems, and scalable ML pipelines  <br>- 🛠 Creator of full-stack AI projects like AskPostgres, OutreachPilot, ResearchRAG, and TalkToTube  <br>- ⚡ Exploring AI-assisted development to boost productivity and accelerate prototyping  <br>- 📚 Love turning cutting-edge research into practical, production-ready tools  <br>- 💬 Ask me about LLMs, RAG pipelines, AI system design, or applied ML  <br>- 👯 Always open to collaborating on AI agents, developer tools, and real-world ML applications  <br>
+## 👨‍💻 About Me<br><br> 🤖 Passionate about building intelligent systems that push the boundaries of AI  <br> 🔬 Exploring RAG, multi-agent systems, and scalable ML pipelines  <br> 🛠 Creator of full-stack AI projects like AskPostgres, OutreachPilot, ResearchRAG, and TalkToTube  <br> ⚡ Exploring AI-assisted development to boost productivity and accelerate prototyping  <br> 📚 Love turning cutting-edge research into practical, production-ready tools  <br> 💬 Ask me about LLMs, RAG pipelines, AI system design, or applied ML  <br> 👯 Always open to collaborating on AI agents, developer tools, and real-world ML applications  <br>
 
 
 # 🌐 Socials:
