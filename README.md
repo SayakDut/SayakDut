@@ -23,4 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=SayakDut&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/SayakDut/SayakDut/blob/output/github-snake-dark.svg)
