@@ -25,5 +25,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayakDut/SayakDut/output/github-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SayakDut/SayakDut/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SayakDut/SayakDut/output/github-snake.svg" style="max-width: 100%; display: block; margin: 0 auto;" />
 </picture>
