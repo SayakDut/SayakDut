@@ -1,26 +1,86 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br> 🤖 Passionate about building intelligent systems that push the boundaries of AI  <br> 🔬 Exploring RAG, multi-agent systems, and scalable ML pipelines  <br> 🛠 Creator of full-stack AI projects like AskPostgres, OutreachPilot, ResearchRAG, and TalkToTube  <br> ⚡ Exploring AI-assisted development to boost productivity and accelerate prototyping  <br> 📚 Love turning cutting-edge research into practical, production-ready tools  <br> 💬 Ask me about LLMs, RAG pipelines, AI system design, or applied ML  <br> 👯 Always open to collaborating on AI agents, developer tools, and real-world ML applications  <br>
+# Sayak Dutta
 
+**AI/ML & Full-Stack Engineer**  
+I build scalable intelligent systems: **LLMs, RAG pipelines, real-time analytics, and infra AI**.  
+Tools I use daily: **Python, C++, TypeScript, PyTorch, Postgres, Docker, React/Next.js**.
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayakdutta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sduttan598@gmail.com) 
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SayakDut&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SayakDut&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayakDut&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[Email](mailto:sduttan598@gmail.com) • [LinkedIn](https://linkedin.com/in/sayakdutta)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SayakDut&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## What I’m good at
+- Designing and shipping **end-to-end AI systems** (retrieval, orchestration, evals, inference, monitoring).
+- Building **production-grade backends** (FastAPI/Node, Postgres, async workers, queues, caching).
+- Creating **clean frontends** for AI tools (React/Next.js, Tailwind, Streamlit when needed).
+- **MLOps and reliability**: containerization, CI/CD with GitHub Actions, reproducible environments.
 
-![snake gif](https://github.com/SayakDut/SayakDut/blob/output/github-snake-dark.svg)
+---
+
+## Selected work (pinned repos have the code)
+
+**ResearchRAG**  
+AI paper digester + semantic search with chunking, reranking, and grounded answers.  
+*Why it’s interesting:* solid retrieval pipeline, citation integrity, fast eval loop.  
+*Stack:* Python, PyTorch, FAISS, FastAPI, Postgres, Docker.  
+[Code](https://github.com/SayakDut/ResearchRAG) • Demo (add link)
+
+**OutreachPilot**  
+Autopilot for cold outreach: generates variants, A/B tests, tracks opens/CTR with pixel + redirect.  
+*Why it’s interesting:* asynchronous tasks, reliable email pipeline, analytics.  
+*Stack:* Docker + Postgres, FastAPI, React.  
+[Code](https://github.com/SayakDut/OutreachPilot) • Demo (add link)
+
+**AskPostgres**  
+Question-answering over Postgres schemas with SQL generation, execution, and guardrails.  
+*Why it’s interesting:* schema-aware prompting, safe execution, cached retrieval.  
+*Stack:* Python, SQL, LangChain/LlamaIndex, FastAPI.  
+[Code](https://github.com/SayakDut/AskPostgres)
+
+**TalkToTube**  
+Pulls video transcripts or runs ASR, then summarizes and lets you query the content.  
+*Why it’s interesting:* fallback path when transcripts are missing, chunking + summarization strategy.  
+*Stack:* yt-dlp, Whisper, BART, Streamlit.  
+[Code](https://github.com/SayakDut/TalkToTube)
+
+> Tip: keep these four pinned with short, plain-English descriptions and a screenshot in each README.
+
+---
+
+## Engineering highlights
+- **RAG quality:** hybrid search, rerankers, and eval sets. Clear failure modes and tests for hallucinations.  
+- **Performance:** async I/O, batching, caching, and streaming responses to cut latency and cost.  
+- **Reliability:** Dockerized services, env-based configs, health checks, and CI on every push.  
+- **Security basics:** secrets management, input validation, RBAC where needed.
+
+---
+
+## Core stack (curated)
+**Languages:** Python, C++, TypeScript  
+**AI/ML:** PyTorch, scikit-learn, Transformers, LangChain  
+**Data/Infra:** Postgres, Redis, Docker, GitHub Actions  
+**Web:** FastAPI, React/Next.js, Tailwind, Streamlit  
+**Cloud:** AWS, GCP, Vercel/Render
+
+---
+
+## Connect
+If you’re building with LLMs, RAG, or infra for real-time analytics and want someone who ships, reach out.  
+[Email](mailto:sduttan598@gmail.com) • [LinkedIn](https://linkedin.com/in/sayakdutta)
+
+---
+
+<!-- Optional extras. Keep out of the way for recruiters who skim. -->
+<details>
+  <summary>Stats and fun stuff</summary>
+
+  <!-- Replace or remove if you prefer a cleaner profile -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SayakDut&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayakDut&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github.com/SayakDut/SayakDut/blob/output/github-snake-dark.svg" alt="Snake" />
+  </p>
+</details>
