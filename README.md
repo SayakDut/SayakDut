@@ -18,7 +18,7 @@ Tools I use daily: **Python, C++, TypeScript, PyTorch, Postgres, Docker, React/N
 ---
 
 ## 📌 Featured Projects  
-*(See pinned repos for code and details)*  
+
 
 ### 🔬 ResearchRAG  
 AI paper digester + semantic search with chunking, reranking, and grounded answers.  
