@@ -42,7 +42,7 @@ Pulls video transcripts or runs ASR, then summarizes and lets you query the cont
 *Stack:* yt-dlp, Whisper, BART, Streamlit.  
 [Code](https://github.com/SayakDut/TalkToTube)
 
-> Tip: keep these four pinned with short, plain-English descriptions and a screenshot in each README.
+
 
 ---
 
