@@ -22,13 +22,13 @@ Tools I use daily: **Python, C++, TypeScript, PyTorch, Postgres, Docker, React/N
 AI paper digester + semantic search with chunking, reranking, and grounded answers.  
 *Why it’s interesting:* solid retrieval pipeline, citation integrity, fast eval loop.  
 *Stack:* Python, PyTorch, FAISS, FastAPI, Postgres, Docker.  
-[Code](https://github.com/SayakDut/ResearchRAG) • Demo (add link)
+[Code](https://github.com/SayakDut/ResearchRAG) 
 
 **OutreachPilot**  
 Autopilot for cold outreach: generates variants, A/B tests, tracks opens/CTR with pixel + redirect.  
 *Why it’s interesting:* asynchronous tasks, reliable email pipeline, analytics.  
 *Stack:* Docker + Postgres, FastAPI, React.  
-[Code](https://github.com/SayakDut/OutreachPilot) • Demo (add link)
+[Code](https://github.com/SayakDut/OutreachPilot) 
 
 **AskPostgres**  
 Question-answering over Postgres schemas with SQL generation, execution, and guardrails.  
