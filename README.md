@@ -4,7 +4,8 @@
 I build scalable intelligent systems: **LLMs, RAG pipelines, real-time analytics, and infra AI**.  
 Tools I use daily: **Python, C++, TypeScript, PyTorch, Postgres, Docker, React/Next.js**  
 
-📫 [Email](mailto:sduttan598@gmail.com) • 🌐 [LinkedIn](https://linkedin.com/in/sayakdutta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayakdutta) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sduttan598@gmail.com)  
 
 ---
 
@@ -69,7 +70,8 @@ Summarizes YouTube videos via transcript or ASR + lets you query content.
 ---
 
 ## 🤝 Connect
-If you’re building with **LLMs, RAG, or real-time infra AI** and want someone who ships, reach out:  
-📧 [Email](mailto:sduttan598@gmail.com) • 🌐 [LinkedIn](https://linkedin.com/in/sayakdutta)  
+I’m always open to discussing **LLMs, RAG, and real-world infra AI applications**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayakdutta) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sduttan598@gmail.com)  
 
 ---
