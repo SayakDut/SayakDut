@@ -69,18 +69,3 @@ If you’re building with LLMs, RAG, or infra for real-time analytics and want s
 
 ---
 
-<!-- Optional extras. Keep out of the way for recruiters who skim. -->
-<details>
-  <summary>Stats and fun stuff</summary>
-
-  <!-- Replace or remove if you prefer a cleaner profile -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SayakDut&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayakDut&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github.com/SayakDut/SayakDut/blob/output/github-snake-dark.svg" alt="Snake" />
-  </p>
-</details>
